@@ -1,0 +1,87 @@
+.blue-color {
+    color: blue;
+}
+
+body {
+    font-family: 'Satisfy', cursive;
+    margin: 0;
+
+}
+
+h1 {
+    font-size: 100px;
+    text-align: center;
+    width: 100%;
+
+}
+
+h2 {
+    line-height: 20px;
+}
+
+.skyblue-color {
+    color: skyblue;
+}
+
+h3 {
+    line-height: 20px;
+}
+
+.half-width {
+    width: 50%;
+
+
+
+}
+
+.flexible-container {
+    display: flex;
+    margin-bottom: 150px;
+
+
+
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+
+}
+
+.top-banner {
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.green-color {
+    color: green;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
+
+.Key-Skills-Experience {
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.experience-item {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+}
+
+footer p {
+    text-align: center;
+}
